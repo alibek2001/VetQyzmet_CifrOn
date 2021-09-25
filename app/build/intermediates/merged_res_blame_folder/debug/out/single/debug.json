@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_each_animal.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_each_animal.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_info_item.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/info_item.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-anydpi_drawable_button_white.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-anydpi/drawable_button_white.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_for_edit_text.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_for_edit_text.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_forccount.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_forccount.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_big_page.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_big_page.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_button_back.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_button_back.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_main_logo.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/main_logo.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_plus_button_background.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/plus_button_background.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_check_data.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_check_data.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_audandar.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_audandar.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_empty.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_empty.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/font_roboto_bold.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/font/roboto_bold.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_white_button.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_white_button.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_plus.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_white_stroke_but.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/white_stroke_but.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/font_roboto.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/font/roboto.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_horse.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/horse.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_services.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_services.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_bigcow.jpg.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/bigcow.jpg"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/font_roboto_thin.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/font/roboto_thin.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_register_animal.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_register_animal.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_hector.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_hector.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_logo.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_fingerprint.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_fingerprint.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_i.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/i.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_card_animal.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/card_animal.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_custom_alert_di_type.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/custom_alert_di_type.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_custom_alert_color.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/custom_alert_color.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_style_spinner.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/style_spinner.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_delete_image.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_delete_image.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_glyph.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_glyph.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_delete_white.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_delete_white.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_fingerprint_white.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_fingerprint_white.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_right_arrow.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_right_arrow.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_vec.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_vec.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_vet_qyzmet_page.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_vet_qyzmet_page.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_cow_card.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/cow_card.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_plus_button_background_gray.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/plus_button_background_gray.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_heart.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_down.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-hdpi/ic_down.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_fragment_vacine.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/fragment_vacine.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_fragment_for_pager.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/fragment_for_pager.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_all.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_all.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_calendar.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_page_of_owner.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_page_of_owner.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_camel.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/camel.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_spravki.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_spravki.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_logo_to_card.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/logo_to_card.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_personal.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_personal.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_style_spinner_hover.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/style_spinner_hover.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_union.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_union.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_category.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/category.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_city_item.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/city_item.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_ellipse_13.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_ellipse_13.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_gradient.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_nvp.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/nvp.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_vector.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_vector.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_new_logo.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_new_logo.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_ukol.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_ukol.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_spinner_text.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/spinner_text.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_back.jpg.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/back.jpg"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_down.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-mdpi/ic_down.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_down.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-xxhdpi/ic_down.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/font_baloo_bhaina.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/font/baloo_bhaina.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_down.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-xhdpi/ic_down.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_registration.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_main_cow.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/main_cow.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_alert_form.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/alert_form.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_migration.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_migration.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_menu_hamburger.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_menu_hamburger.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_custom_alert_poroda.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/custom_alert_poroda.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_orangefon.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_orangefon.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_closef.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_closef.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_orange_stroke_but.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/orange_stroke_but.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_data_sent.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_data_sent.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_data_sent.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_data_sent.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_qoi.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/qoi.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_person_item.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/person_item.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_s.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_s.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_fragment_services.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/fragment_services.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_ellipse_12.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_ellipse_12.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_fingerprint.jpg.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/fingerprint.jpg"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_tasks.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_tasks.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/font_roboto400.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/font/roboto400.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_drawable_border_bottom.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/drawable_border_bottom.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-anydpi_drawable_button_orange.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-anydpi/drawable_button_orange.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_four_password_in.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_four_password_in.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/font_roboto500.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/font/roboto500.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_logout.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_back_form.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/back_form.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_close.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_categorysec.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/categorysec.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_activity_forms_loc.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/activity_forms_loc.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/layout_fragment_second.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_filter.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_cow1.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/cow1.png"
+    },
+    {
+        "merged": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/res/merged/debug/drawable-v24_cow.png.flat",
+        "source": "/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/res/drawable-v24/cow.png"
+    }
+]

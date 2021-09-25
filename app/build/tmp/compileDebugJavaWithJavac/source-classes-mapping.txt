@@ -1,0 +1,163 @@
+com/cifron/vet_v10/BigPage.java
+ com.cifron.vet_v10.BigPage
+ com.cifron.vet_v10.BigPage$1
+ com.cifron.vet_v10.BigPage$2
+com/cifron/vet_v10/EachAnimalCardAdapter.java
+ com.cifron.vet_v10.EachAnimalCardAdapter
+ com.cifron.vet_v10.EachAnimalCardAdapter$1
+ com.cifron.vet_v10.EachAnimalCardAdapter$EHolder
+com/cifron/vet_v10/EachAnimalInfo.java
+ com.cifron.vet_v10.EachAnimalInfo
+com/cifron/vet_v10/All.java
+ com.cifron.vet_v10.All
+ com.cifron.vet_v10.All$1
+com/cifron/vet_v10/PersonAdapter.java
+ com.cifron.vet_v10.PersonAdapter
+ com.cifron.vet_v10.PersonAdapter$1
+ com.cifron.vet_v10.PersonAdapter$PersonHolder
+com/cifron/vet_v10/MyItemTouchHelper.java
+ com.cifron.vet_v10.MyItemTouchHelper
+com/cifron/vet_v10/DataAnimalWithImage.java
+ com.cifron.vet_v10.DataAnimalWithImage
+com/cifron/vet_v10/VetQyzmetPage.java
+ com.cifron.vet_v10.VetQyzmetPage
+ com.cifron.vet_v10.VetQyzmetPage$1
+ com.cifron.vet_v10.VetQyzmetPage$2
+com/cifron/vet_v10/DataAnimal.java
+ com.cifron.vet_v10.DataAnimal
+com/cifron/vet_v10/Audandar.java
+ com.cifron.vet_v10.Audandar
+ com.cifron.vet_v10.Audandar$1
+ com.cifron.vet_v10.Audandar$GetToken
+ com.cifron.vet_v10.Audandar$LoginPost
+ com.cifron.vet_v10.Audandar$LoginPost$1
+ com.cifron.vet_v10.Audandar$LoginPost$2
+com/cifron/vet_v10/EachAnimal.java
+ com.cifron.vet_v10.EachAnimal
+ com.cifron.vet_v10.EachAnimal$1
+ com.cifron.vet_v10.EachAnimal$2
+ com.cifron.vet_v10.EachAnimal$3
+com/cifron/vet_v10/EmptyActivity.java
+ com.cifron.vet_v10.EmptyActivity
+ com.cifron.vet_v10.EmptyActivity$1
+com/cifron/vet_v10/FragmentForPager.java
+ com.cifron.vet_v10.FragmentForPager
+com/cifron/vet_v10/CityAdapter.java
+ com.cifron.vet_v10.CityAdapter
+ com.cifron.vet_v10.CityAdapter$1
+ com.cifron.vet_v10.CityAdapter$CityViewHolder
+com/cifron/vet_v10/ViewPagerAdapter.java
+ com.cifron.vet_v10.ViewPagerAdapter
+com/cifron/vet_v10/Tasks.java
+ com.cifron.vet_v10.Tasks
+ com.cifron.vet_v10.Tasks$1
+ com.cifron.vet_v10.Tasks$2
+ com.cifron.vet_v10.Tasks$3
+ com.cifron.vet_v10.Tasks$4
+com/cifron/vet_v10/StreetAndPerson.java
+ com.cifron.vet_v10.StreetAndPerson
+com/cifron/vet_v10/AnimalCardAdapter.java
+ com.cifron.vet_v10.AnimalCardAdapter
+ com.cifron.vet_v10.AnimalCardAdapter$1
+ com.cifron.vet_v10.AnimalCardAdapter$AnimalHolder
+com/cifron/vet_v10/LoginActiv.java
+ com.cifron.vet_v10.LoginActiv
+ com.cifron.vet_v10.LoginActiv$1
+ com.cifron.vet_v10.LoginActiv$2
+ com.cifron.vet_v10.LoginActiv$3
+ com.cifron.vet_v10.LoginActiv$LoginPost
+ com.cifron.vet_v10.LoginActiv$LoginPost$1
+ com.cifron.vet_v10.LoginActiv$LoginPost$2
+com/cifron/vet_v10/Fragment_services.java
+ com.cifron.vet_v10.Fragment_services
+com/cifron/vet_v10/FormsLoc.java
+ com.cifron.vet_v10.FormsLoc
+ com.cifron.vet_v10.FormsLoc$1
+ com.cifron.vet_v10.FormsLoc$2
+com/cifron/vet_v10/MainActivity.java
+ com.cifron.vet_v10.MainActivity
+ com.cifron.vet_v10.MainActivity$1
+ com.cifron.vet_v10.MainActivity$2
+ com.cifron.vet_v10.MainActivity$2$1
+com/cifron/vet_v10/InfoAdapter.java
+ com.cifron.vet_v10.InfoAdapter
+ com.cifron.vet_v10.InfoAdapter$InfoHolder
+com/cifron/vet_v10/FormAdapter.java
+ com.cifron.vet_v10.FormAdapter
+ com.cifron.vet_v10.FormAdapter$1
+ com.cifron.vet_v10.FormAdapter$FormViewHolder
+com/cifron/vet_v10/splash.java
+ com.cifron.vet_v10.splash
+ com.cifron.vet_v10.splash$1
+com/cifron/vet_v10/Registration.java
+ com.cifron.vet_v10.Registration
+ com.cifron.vet_v10.Registration$1
+ com.cifron.vet_v10.Registration$10
+ com.cifron.vet_v10.Registration$11
+ com.cifron.vet_v10.Registration$11$1
+ com.cifron.vet_v10.Registration$12
+ com.cifron.vet_v10.Registration$13
+ com.cifron.vet_v10.Registration$14
+ com.cifron.vet_v10.Registration$15
+ com.cifron.vet_v10.Registration$2
+ com.cifron.vet_v10.Registration$3
+ com.cifron.vet_v10.Registration$4
+ com.cifron.vet_v10.Registration$5
+ com.cifron.vet_v10.Registration$6
+ com.cifron.vet_v10.Registration$7
+ com.cifron.vet_v10.Registration$8
+ com.cifron.vet_v10.Registration$9
+ com.cifron.vet_v10.Registration$BreedPost
+ com.cifron.vet_v10.Registration$ColorPost
+ com.cifron.vet_v10.Registration$ColorPost$1
+ com.cifron.vet_v10.Registration$GetToken
+ com.cifron.vet_v10.Registration$TypesPost
+ com.cifron.vet_v10.Registration$TypesPost$1
+com/cifron/vet_v10/NameCity.java
+ com.cifron.vet_v10.NameCity
+com/cifron/vet_v10/DataSent.java
+ com.cifron.vet_v10.DataSent
+ com.cifron.vet_v10.DataSent$1
+ com.cifron.vet_v10.DataSent$2
+com/cifron/vet_v10/RetroApi.java
+ com.cifron.vet_v10.RetroApi
+com/cifron/vet_v10/FourPasswordIn.java
+ com.cifron.vet_v10.FourPasswordIn
+ com.cifron.vet_v10.FourPasswordIn$1
+ com.cifron.vet_v10.FourPasswordIn$1$1
+ com.cifron.vet_v10.FourPasswordIn$2
+com/cifron/vet_v10/Page_Of_Owner.java
+ com.cifron.vet_v10.Page_Of_Owner
+ com.cifron.vet_v10.Page_Of_Owner$1
+ com.cifron.vet_v10.Page_Of_Owner$2
+ com.cifron.vet_v10.Page_Of_Owner$GetToken
+ com.cifron.vet_v10.Page_Of_Owner$LoginPost
+ com.cifron.vet_v10.Page_Of_Owner$LoginPost$1
+ com.cifron.vet_v10.Page_Of_Owner$LoginPost$2
+com/cifron/vet_v10/AnimalCardInfo.java
+ com.cifron.vet_v10.AnimalCardInfo
+com/cifron/vet_v10/CheckData.java
+ com.cifron.vet_v10.CheckData
+ com.cifron.vet_v10.CheckData$1
+ com.cifron.vet_v10.CheckData$2
+ com.cifron.vet_v10.CheckData$3
+ com.cifron.vet_v10.CheckData$4
+ com.cifron.vet_v10.CheckData$5
+ com.cifron.vet_v10.CheckData$6
+ com.cifron.vet_v10.CheckData$7
+ com.cifron.vet_v10.CheckData$8
+ com.cifron.vet_v10.CheckData$9
+ com.cifron.vet_v10.CheckData$GetToken
+com/cifron/vet_v10/Fragment_vacine.java
+ com.cifron.vet_v10.Fragment_vacine
+com/cifron/vet_v10/Second.java
+ com.cifron.vet_v10.Second
+com/cifron/vet_v10/BuildConfig.java
+ com.cifron.vet_v10.BuildConfig
+com/cifron/vet_v10/Personal.java
+ com.cifron.vet_v10.Personal
+ com.cifron.vet_v10.Personal$1
+ com.cifron.vet_v10.Personal$GetToken
+ com.cifron.vet_v10.Personal$LoginPost
+ com.cifron.vet_v10.Personal$LoginPost$1
+ com.cifron.vet_v10.Personal$LoginPost$2
