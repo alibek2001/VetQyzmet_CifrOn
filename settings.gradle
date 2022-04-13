@@ -1,2 +1,2 @@
-rootProject.name = "vet_v1.0"
 include ':app'
+rootProject.name = "VetQyzmet"

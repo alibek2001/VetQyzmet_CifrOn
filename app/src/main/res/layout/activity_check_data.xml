@@ -20,22 +20,24 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:backgroundTint="@color/white"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
             app:srcCompat="@drawable/ic_hector" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
-            android:text="Завершение регестрации"
+            android:text="Завершение регистрации"
             android:textColor="@color/black"
-            android:textSize="16dp"
+            android:textSize="20dp"
             android:fontFamily="@font/roboto500"/>
 
     </LinearLayout>
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.5dp"
         android:layout_marginEnd="16dp"
         android:layout_marginStart="16dp"
         android:background="@color/cloud"
@@ -71,6 +73,48 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
             android:text="Корова"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:fontFamily="@font/roboto400"/>
+
+        <TextView
+            android:id="@+id/suitFront"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Направление животного"
+            android:textColor="@color/gray_text"
+            android:textSize="14dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkColor"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:text="Бело-коричневый"
+            android:layout_marginTop="4dp"
+            android:layout_marginStart="16dp"
+            android:fontFamily="@font/roboto400"
+            />
+
+        <TextView
+            android:id="@+id/checkPorodaFront"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Порода"
+            android:textColor="@color/gray_text"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/checkParoda"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="4dp"
+            android:text="Беспородная"
             android:textColor="@color/black"
             android:textSize="16dp"
             android:fontFamily="@font/roboto400"/>
@@ -115,6 +159,7 @@
             android:textSize="16dp"
             android:fontFamily="@font/roboto400"/>
 
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -135,46 +180,6 @@
             android:textSize="16dp"
             android:fontFamily="@font/roboto400"/>
 
-        <TextView
-            android:id="@+id/checkPorodaFront"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="24dp"
-            android:text="Порода"
-            android:textColor="@color/gray_text"
-            android:textSize="14dp" />
-
-        <TextView
-            android:id="@+id/checkParoda"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="4dp"
-            android:text="Беспородная"
-            android:textColor="@color/black"
-            android:textSize="16dp"
-            android:fontFamily="@font/roboto400"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Масть"
-        android:textColor="@color/gray_text"
-        android:textSize="14dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginStart="16dp"
-        />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/checkColor"
-        android:textColor="@color/black"
-        android:textSize="16dp"
-        android:text="Бело-коричневый"
-        android:layout_marginTop="4dp"
-        android:layout_marginStart="16dp"
-        android:fontFamily="@font/roboto400"
-        />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -190,13 +195,12 @@
                 android:layout_marginEnd="6dp">
 
                 <FrameLayout
+                    android:id="@+id/plus1"
                     android:layout_width="80dp"
                     android:layout_height="80dp"
-                    android:id="@+id/plus1"
-                    android:visibility="gone"
-                    android:background="@drawable/plus_button_background"
                     android:layout_gravity="bottom"
-                    >
+                    android:background="@drawable/plus_button_background"
+                    android:visibility="visible">
 
                     <ImageView
                         android:layout_width="wrap_content"
@@ -206,19 +210,20 @@
                 </FrameLayout>
 
 
-
                 <ImageView
                     android:id="@+id/ima1"
                     android:layout_width="80dp"
                     android:layout_height="80dp"
                     android:layout_gravity="bottom"
-                    android:scaleType="centerCrop" />
+                    android:scaleType="centerCrop"
+                    android:visibility="gone" />
 
                 <ImageView
                     android:id="@+id/delete_image1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="top|right"
+                    android:visibility="gone"
                     app:srcCompat="@drawable/ic_delete_image" />
             </FrameLayout>
 
@@ -229,18 +234,18 @@
                 android:layout_marginEnd="6dp">
 
                 <FrameLayout
+                    android:id="@+id/plus2"
                     android:layout_width="80dp"
                     android:layout_height="80dp"
-                    android:id="@+id/plus2"
-                    android:background="@drawable/plus_button_background"
                     android:layout_gravity="bottom"
-                    >
+                    android:background="@drawable/plus_button_background"
+                    android:visibility="gone">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center"
-                    app:srcCompat="@drawable/ic_plus" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        app:srcCompat="@drawable/ic_plus" />
                 </FrameLayout>
 
                 <ImageView
@@ -336,6 +341,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginEnd="16dp"
             android:layout_marginBottom="20dp"
+            android:enabled="false"
             android:layout_weight="1"
             android:textSize="14dp"
             android:textAllCaps="false"

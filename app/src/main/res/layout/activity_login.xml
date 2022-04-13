@@ -11,7 +11,7 @@
         android:layout_width="328dp"
         android:layout_height="30dp"
         android:layout_marginStart="20dp"
-        android:layout_marginTop="204dp"
+        android:layout_marginTop="200dp"
         android:text="Вход в систему"
         android:textColor="@color/black"
         android:textSize="24dp"
@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="44dp"
         android:layout_marginStart="20dp"
-        android:layout_marginTop="336dp"
+        android:layout_marginTop="50dp"
         android:layout_marginEnd="20dp"
         android:background="@drawable/ic_for_edit_text"
         android:backgroundTint="@color/gray"
@@ -33,7 +33,7 @@
         android:textSize="14dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/today" />
 
     <EditText
         android:id="@+id/editTextTextPassword"
@@ -87,7 +87,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
         android:backgroundTint="@color/gray_text"
-        android:text="Почта"
+        android:text="Логин"
         android:textSize="14dp"
         app:layout_constraintBottom_toTopOf="@+id/editTextTextEmailAddress"
         app:layout_constraintStart_toStartOf="@+id/editTextTextEmailAddress" />

@@ -33,26 +33,17 @@
                 android:layout_height="wrap_content">
 
 
-
                 <ImageView
                     android:id="@+id/eImage"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="100dp"
                     app:srcCompat="@drawable/cow1" />
-                <ImageView
-                    android:id="@+id/orangeFon"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="top|right"
-                    app:srcCompat="@drawable/ic_orangefon" />
-                <ImageView
-                    android:id="@+id/ukol"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="top|right"
-                    android:layout_marginTop="3dp"
-                    android:layout_marginEnd="3dp"
-                    app:srcCompat="@drawable/ic_ukol" />
+
+                <ProgressBar
+                    android:layout_width="match_parent"
+                    android:id="@+id/card_progress_bar"
+                    android:layout_gravity="center"
+                    android:layout_height="100dp"/>
 
             </FrameLayout>
 
@@ -65,12 +56,12 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/roboto_bold"
                         android:paddingLeft="8dp"
-                        android:text="НВП:"
+                        android:text="ИНЖ:"
                         android:textColor="@color/forms"
                         android:textSize="14dp" />
 
                     <TextView
-                        android:id="@+id/nvp"
+                        android:id="@+id/inj"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingLeft="4dp"
@@ -87,7 +78,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingLeft="8dp"
-                        android:text="Возрасть:"
+                        android:text="Дата рождения:"
                         android:textSize="12dp" />
 
                     <TextView
@@ -153,11 +144,11 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingLeft="8dp"
-                        android:text="ИНЖ:"
+                        android:text="НЖ:"
                         android:textSize="12dp" />
 
                     <TextView
-                        android:id="@+id/inj"
+                        android:id="@+id/direction"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingLeft="4dp"

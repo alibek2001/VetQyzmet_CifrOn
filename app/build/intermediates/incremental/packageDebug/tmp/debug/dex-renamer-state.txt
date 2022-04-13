@@ -1,4 +1,4 @@
-#Sun Sep 26 04:26:36 ALMT 2021
-base.0=/Users/alibek/Desktop/VetQyzmet_CifrOn/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Dec 20 20:37:11 ALMT 2021
+base.0=/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

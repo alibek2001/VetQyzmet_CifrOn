@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cifron.vet_v10"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    package="kz.cifron.vetqyzmet_doctor"
+    android:versionCode="7"
+    android:versionName="2.5" >
 
     <uses-sdk
         android:minSdkVersion="19"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission
         android:name="android.permission.USE_BIOMETRIC"
         android:requiredFeature="false" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <queries>
+        <intent>
+            <action android:name="android.media.action.IMAGE_CAPTURE" />
+        </intent>
+    </queries>
 
     <!-- suppress DeprecatedClassUsageInspection -->
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
@@ -25,22 +36,26 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@drawable/main_logo"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:logo="@mipmap/ic_launcher"
+        android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:screenOrientation="portrait"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.Vet_v10" >
-        <activity android:name="com.cifron.vet_v10.DataSent" />
-        <activity android:name="com.cifron.vet_v10.EmptyActivity" />
-        <activity android:name="com.cifron.vet_v10.Page_Of_Owner" >
+        <activity android:name="kz.cifron.vetqyzmet_doctor.DataSent" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.EmptyActivity" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.Page_Of_Owner" >
         </activity>
-        <activity android:name="com.cifron.vet_v10.VetQyzmetPage" />
-        <activity android:name="com.cifron.vet_v10.LoginActiv" />
-        <activity android:name="com.cifron.vet_v10.FourPasswordIn" />
-        <activity android:name="com.cifron.vet_v10.CheckData" />
-        <activity android:name="com.cifron.vet_v10.splash" >
+        <activity android:name="kz.cifron.vetqyzmet_doctor.VetQyzmetPage" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.LoginActiv" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.FourPasswordIn" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.CheckData" />
+        <activity
+            android:name="kz.cifron.vetqyzmet_doctor.splash"
+            android:exported="true"
+            android:label="@string/title_activity_splash_screen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -48,16 +63,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.cifron.vet_v10.Registration"
+            android:name="kz.cifron.vetqyzmet_doctor.Registration"
             android:screenOrientation="portrait" />
-        <activity android:name="com.cifron.vet_v10.FormsLoc" />
-        <activity android:name="com.cifron.vet_v10.BigPage" />
-        <activity android:name="com.cifron.vet_v10.EachAnimal" />
-        <activity android:name="com.cifron.vet_v10.All" />
-        <activity android:name="com.cifron.vet_v10.Personal" />
-        <activity android:name="com.cifron.vet_v10.Audandar" />
-        <activity android:name="com.cifron.vet_v10.Tasks" />
-        <activity android:name="com.cifron.vet_v10.MainActivity" >
+        <activity android:name="kz.cifron.vetqyzmet_doctor.FormsLoc" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.BigPage" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.EachAnimal" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.Personal" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.Audandar" />
+        <activity android:name="kz.cifron.vetqyzmet_doctor.Tasks" />
+        <activity
+            android:name="kz.cifron.vetqyzmet_doctor.MainActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

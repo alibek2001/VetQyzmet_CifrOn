@@ -23,6 +23,8 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:backgroundTint="@color/white"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
             app:srcCompat="@drawable/ic_hector" />
 
         <TextView
@@ -39,7 +41,7 @@
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.5dp"
         android:layout_marginEnd="16dp"
         android:layout_marginStart="16dp"
         android:background="@color/cloud"
@@ -86,9 +88,81 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
                     android:text="Корова"
-                    android:fontFamily="@font/roboto500"
+                    android:fontFamily="@font/roboto400"
                     android:textSize="16dp"
                     android:textColor="@color/black"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/suitFront"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/roboto400"
+                android:text="Направление животного"
+                android:textColor="@color/gray_text"
+                android:textSize="14dp"
+                android:visibility="gone" />
+
+            <LinearLayout
+
+                android:id="@+id/suitspinner"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/style_spinner"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/suit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:fontFamily="@font/roboto400"
+                    android:text="Молочно-мясной"
+                    android:textColor="@color/black"
+                    android:textSize="16dp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/porodaFront"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto400"
+                android:text="Парода"
+                android:textColor="@color/gray_text"
+                android:textSize="14dp"
+                android:visibility="gone" />
+
+
+            <LinearLayout
+                android:id="@+id/Birthspinner"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/style_spinner"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/poroda"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:fontFamily="@font/roboto400"
+                    android:text="Беспородная"
+                    android:textColor="@color/black"
+                    android:textSize="16dp" />
 
             </LinearLayout>
 
@@ -98,28 +172,26 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
                 android:fontFamily="@font/roboto400"
-                android:text="Номер ветеринарного паспорта №"
+                android:text="Введите ИНЖ"
                 android:textColor="@color/gray_text"
-                android:textSize="14dp"
-                />
+                android:textSize="14dp" />
 
 
-
-                <EditText
-                    android:id="@+id/regNVP"
-                    android:layout_width="match_parent"
-                    android:layout_height="40dp"
-                    android:layout_marginStart="16dp"
-                    android:layout_marginTop="8dp"
-                    android:layout_marginEnd="16dp"
-                    android:layout_marginBottom="12dp"
-                    android:background="@drawable/white_stroke_but"
-                    android:ems="10"
-                    android:fontFamily="@font/roboto400"
-                    android:hint="№НВП"
-                    android:inputType="number"
-                    android:textColor="@color/black"
-                    android:textSize="16dp" />
+            <EditText
+                android:id="@+id/regNVP"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/white_stroke_but"
+                android:ems="10"
+                android:fontFamily="@font/roboto400"
+                android:hint="ИНЖ"
+                android:inputType="text"
+                android:textColor="@color/black"
+                android:textSize="16dp" />
 
 
 
@@ -128,10 +200,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
-                android:fontFamily="@font/roboto"
+                android:fontFamily="@font/roboto400"
                 android:text="Пол коровы"
                 android:textColor="@color/gray_text"
-                android:textFontWeight="500"
                 android:textSize="14dp"
                 app:layout_constraintStart_toStartOf="@+id/regNVP"
                 app:layout_constraintTop_toBottomOf="@+id/regNVP" />
@@ -152,7 +223,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:buttonTint="@color/orange"
-                    android:checked="true"
                     android:text="Самка"
                     android:textSize="16dp"
                     android:fontFamily="@font/roboto400"/>
@@ -170,39 +240,6 @@
                     android:fontFamily="@font/roboto400"/>
             </RadioGroup>
 
-            <TextView
-                android:id="@+id/porodaFront"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="16dp"
-                android:text="Парода"
-                android:textColor="@color/gray_text"
-                android:textSize="14dp"
-                android:fontFamily="@font/roboto400"/>
-
-
-            <LinearLayout
-                android:id="@+id/Birthspinner"
-                android:layout_width="match_parent"
-                android:layout_height="44dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:layout_marginEnd="16dp"
-                android:orientation="horizontal"
-                android:background="@drawable/style_spinner">
-
-                <TextView
-                    android:id="@+id/poroda"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:text="Беспородная"
-                    android:textSize="16dp"
-                    android:fontFamily="@font/roboto400"
-                    android:textColor="@color/black"/>
-
-            </LinearLayout>
 
             <TextView
                 android:layout_width="wrap_content"
@@ -236,10 +273,10 @@
                     android:id="@+id/dateText"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="2021, Сентябрь"
-                    android:textSize="16dp"
                     android:fontFamily="@font/roboto400"
-                    android:textColor="@color/black"/>
+                    android:text="Не выбрано"
+                    android:textColor="@color/black"
+                    android:textSize="16dp" />
 
 
             </RelativeLayout>
@@ -250,10 +287,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto400"
                 android:text="Масть"
                 android:textColor="@color/gray_text"
                 android:textSize="14dp"
-                android:fontFamily="@font/roboto400"/>
+                android:visibility="gone" />
 
 
             <LinearLayout
@@ -264,61 +302,81 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="16dp"
                 android:background="@drawable/style_spinner"
-                android:orientation="horizontal">
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <EditText
+                    android:id="@+id/hiddenEdit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:inputType="text"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/hiddenEdit2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:inputType="text"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"
+                    android:visibility="gone" />
+                <EditText
+                    android:id="@+id/hiddenEdit3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:inputType="text"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"
+                    android:visibility="gone" />
+                <EditText
+                    android:id="@+id/hiddenEdit4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:inputType="text"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"
+                    android:visibility="gone" />
+                <EditText
+                    android:id="@+id/hiddenEdit5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:inputType="text"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"
+                    android:visibility="gone" />
+                <EditText
+                    android:id="@+id/hiddenEdit6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:inputType="text"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"
+                    android:visibility="gone" />
 
                 <TextView
                     android:id="@+id/color"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
-                    android:text="Белый"
-                    android:textSize="16dp"
                     android:fontFamily="@font/roboto400"
-                    android:textColor="@color/black"/>
+                    android:text="Белый"
+                    android:textColor="@color/black"
+                    android:textSize="16dp" />
 
-            </LinearLayout>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="24dp"
-                android:visibility="gone"
-                android:text="Кличка"
-                android:textColor="@color/black"
-                android:textSize="14dp" />
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="4dp"
-                android:visibility="gone"
-                android:layout_marginEnd="16dp"
-                android:layout_marginBottom="20dp"
-                android:background="@drawable/nvp"
-                android:orientation="vertical">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="11dp"
-                    android:fontFamily="@font/roboto"
-                    android:text="Кличка"
-                    android:textColor="@color/nvvp"
-                    android:textSize="11dp" />
-
-                <EditText
-                    android:id="@+id/nameReg"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginEnd="16dp"
-                    android:layout_marginBottom="12dp"
-                    android:background="@color/white"
-                    android:ems="10"
-                    android:hint="Кличка"
-                    android:inputType="textPersonName"
-                    android:textSize="14dp" />
             </LinearLayout>
 
 

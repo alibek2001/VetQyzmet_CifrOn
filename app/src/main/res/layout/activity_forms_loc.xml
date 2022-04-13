@@ -14,14 +14,16 @@
         android:background="@color/white"
         android:elevation="10dp"
         >
+
         <ImageButton
             android:id="@+id/formBack"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:backgroundTint="@color/white"
-            app:srcCompat="@drawable/ic_hector"
-            />
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            app:srcCompat="@drawable/ic_hector" />
         <TextView
             android:id="@+id/formName"
             android:layout_width="wrap_content"

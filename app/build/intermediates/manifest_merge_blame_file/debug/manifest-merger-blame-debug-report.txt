@@ -1,149 +1,182 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.cifron.vet_v10"
-4    android:versionCode="1"
-5    android:versionName="1.0" >
+3    package="kz.cifron.vetqyzmet_doctor"
+4    android:versionCode="7"
+5    android:versionName="2.5" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="30" />
-9-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml
+8-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.VIBRATE" />
-11-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:5:5-66
-11-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:5:22-63
+11-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:5-66
+11-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:22-63
 12    <uses-permission android:name="android.permission.CAMERA" />
-12-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:6:5-65
-12-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:6:22-62
+12-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:7:5-65
+12-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:7:22-62
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:7:5-80
-13-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:7:22-77
-14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-14-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:8:5-81
-14-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:8:22-78
-15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:9:5-67
-15-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:9:22-64
-16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:10:5-79
-16-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:10:22-76
-17    <uses-permission
-17-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:11:5-13:43
-18        android:name="android.permission.USE_BIOMETRIC"
-18-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:12:9-56
-19        android:requiredFeature="false" />
-19-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:13:9-40
-20
-21    <!-- suppress DeprecatedClassUsageInspection -->
-22    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-22-->[androidx.biometric:biometric:1.1.0] /Users/alibek/.gradle/caches/transforms-2/files-2.1/9a60da5990e9662bac55e45ca5a9bc44/biometric-1.1.0/AndroidManifest.xml:27:5-74
-22-->[androidx.biometric:biometric:1.1.0] /Users/alibek/.gradle/caches/transforms-2/files-2.1/9a60da5990e9662bac55e45ca5a9bc44/biometric-1.1.0/AndroidManifest.xml:27:22-71
-23
-24    <application
-24-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:15:5-61:19
-25        android:allowBackup="true"
-25-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:16:9-35
-26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-26-->[androidx.core:core:1.5.0] /Users/alibek/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:24:18-86
-27        android:debuggable="true"
-28        android:icon="@drawable/main_logo"
-28-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:17:9-43
-29        android:label="@string/app_name"
-29-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:18:9-41
-30        android:roundIcon="@mipmap/ic_launcher_round"
-30-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:19:9-54
-31        android:screenOrientation="portrait"
-31-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:20:9-45
-32        android:supportsRtl="true"
-32-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:21:9-35
-33        android:testOnly="true"
-34        android:theme="@style/Theme.Vet_v10" >
-34-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:22:9-45
-35        <activity android:name="com.cifron.vet_v10.DataSent" />
-35-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:23:9-55
-35-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:23:19-43
-36        <activity android:name="com.cifron.vet_v10.EmptyActivity" />
-36-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:24:9-51
-36-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:24:19-48
-37        <activity android:name="com.cifron.vet_v10.Page_Of_Owner" >
-37-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:25:9-26:20
-37-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:25:19-48
-38        </activity>
-39        <activity android:name="com.cifron.vet_v10.VetQyzmetPage" />
-39-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:27:9-51
-39-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:27:19-48
-40        <activity android:name="com.cifron.vet_v10.LoginActiv" />
-40-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:28:9-48
-40-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:28:19-45
-41        <activity android:name="com.cifron.vet_v10.FourPasswordIn" />
-41-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:29:9-52
-41-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:29:19-49
-42        <activity android:name="com.cifron.vet_v10.CheckData" />
-42-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:30:9-47
-42-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:30:19-44
-43        <activity android:name="com.cifron.vet_v10.splash" >
-43-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:31:9-38:20
-43-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:31:19-41
-44            <intent-filter>
-44-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:32:13-37:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:33:17-69
-45-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:33:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:35:17-76
-47-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:35:27-74
-48            </intent-filter>
-49        </activity>
-50        <activity
-50-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:39:9-42:15
-51            android:name="com.cifron.vet_v10.Registration"
-51-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:40:13-41
-52            android:screenOrientation="portrait" />
-52-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:41:13-49
-53        <activity android:name="com.cifron.vet_v10.FormsLoc" />
-53-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:43:9-46
-53-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:43:19-43
-54        <activity android:name="com.cifron.vet_v10.BigPage" />
-54-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:44:9-45
-54-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:44:19-42
-55        <activity android:name="com.cifron.vet_v10.EachAnimal" />
-55-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:45:9-48
-55-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:45:19-45
-56        <activity android:name="com.cifron.vet_v10.All" />
-56-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:46:9-41
-56-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:46:19-38
-57        <activity android:name="com.cifron.vet_v10.Personal" />
-57-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:47:9-45
-57-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:47:19-43
-58        <activity android:name="com.cifron.vet_v10.Audandar" />
-58-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:48:9-46
-58-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:48:19-43
-59        <activity android:name="com.cifron.vet_v10.Tasks" />
-59-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:49:9-43
-59-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:49:19-40
-60        <activity android:name="com.cifron.vet_v10.MainActivity" >
-60-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:50:9-56:20
-60-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:50:19-47
-61            <intent-filter>
-61-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:51:13-55:29
-62                <action android:name="android.intent.action.MAIN" />
-62-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:33:17-69
-62-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:33:25-66
-63
-64                <category android:name="android.intent.category.DEFAULT" />
-64-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:54:17-76
-64-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:54:27-73
-65            </intent-filter>
-66        </activity>
-67
-68        <meta-data
-68-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:58:9-60:57
-69            android:name="preloaded_fonts"
-69-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:59:13-43
-70            android:resource="@array/preloaded_fonts" />
-70-->/Users/alibek/Desktop/VetQyzmet_CifrOn/app/src/main/AndroidManifest.xml:60:13-54
-71    </application>
-72
-73</manifest>
+13-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:8:5-79
+13-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:5-66
+14-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:22-63
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:5-66
+15-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:22-63
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:5-66
+16-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:22-63
+17    <uses-permission android:name="android.permission.VIBRATE" />
+17-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:5-66
+17-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:22-63
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:13:5-80
+18-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:14:5-67
+19-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:14:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:15:5-79
+20-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:15:22-76
+21    <uses-permission
+21-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:16:5-19:31
+22        android:name="android.permission.USE_BIOMETRIC"
+22-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:17:9-56
+23        android:requiredFeature="false" />
+23-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:18:9-40
+24    <uses-permission android:name="android.permission.VIBRATE" />
+24-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:5-66
+24-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:6:22-63
+25
+26    <queries>
+26-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:22:5-26:15
+27        <intent>
+27-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:23:9-25:18
+28            <action android:name="android.media.action.IMAGE_CAPTURE" />
+28-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:24:13-73
+28-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:24:21-70
+29        </intent>
+30    </queries>
+31
+32    <!-- suppress DeprecatedClassUsageInspection -->
+33    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+33-->[androidx.biometric:biometric:1.1.0] /Users/alibek/.gradle/caches/transforms-2/files-2.1/78866f338e606ad643ee7a536ab1290f/biometric-1.1.0/AndroidManifest.xml:27:5-74
+33-->[androidx.biometric:biometric:1.1.0] /Users/alibek/.gradle/caches/transforms-2/files-2.1/78866f338e606ad643ee7a536ab1290f/biometric-1.1.0/AndroidManifest.xml:27:22-71
+34
+35    <application
+35-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:28:5-78:19
+36        android:allowBackup="true"
+36-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:29:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.6.0] /Users/alibek/.gradle/caches/transforms-2/files-2.1/3732dbaed7efee9bf6fb58da2e28e003/core-1.6.0/AndroidManifest.xml:24:18-86
+38        android:debuggable="true"
+39        android:icon="@mipmap/ic_launcher"
+39-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:30:9-43
+40        android:label="@string/app_name"
+40-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:31:9-41
+41        android:logo="@mipmap/ic_launcher"
+41-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:32:9-43
+42        android:requestLegacyExternalStorage="true"
+42-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:36:9-52
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:33:9-54
+44        android:screenOrientation="portrait"
+44-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:34:9-45
+45        android:supportsRtl="true"
+45-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:35:9-35
+46        android:theme="@style/Theme.Vet_v10" >
+46-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:37:9-45
+47        <activity android:name="kz.cifron.vetqyzmet_doctor.DataSent" />
+47-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:38:9-46
+47-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:38:19-43
+48        <activity android:name="kz.cifron.vetqyzmet_doctor.EmptyActivity" />
+48-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:39:9-51
+48-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:39:19-48
+49        <activity android:name="kz.cifron.vetqyzmet_doctor.Page_Of_Owner" >
+49-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:40:9-41:20
+49-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:40:19-48
+50        </activity>
+51        <activity android:name="kz.cifron.vetqyzmet_doctor.VetQyzmetPage" />
+51-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:42:9-51
+51-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:42:19-48
+52        <activity android:name="kz.cifron.vetqyzmet_doctor.LoginActiv" />
+52-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:43:9-48
+52-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:43:19-45
+53        <activity android:name="kz.cifron.vetqyzmet_doctor.FourPasswordIn" />
+53-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:44:9-52
+53-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:44:19-49
+54        <activity android:name="kz.cifron.vetqyzmet_doctor.CheckData" />
+54-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:45:9-47
+54-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:45:19-44
+55        <activity
+55-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:46:9-56:20
+56            android:name="kz.cifron.vetqyzmet_doctor.splash"
+56-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:46:19-41
+57            android:exported="true"
+57-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:47:13-36
+58            android:label="@string/title_activity_splash_screen" >
+58-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:48:13-65
+59            <intent-filter>
+59-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:50:13-55:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:51:17-69
+60-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:51:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:53:17-76
+62-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:53:27-74
+63            </intent-filter>
+64        </activity>
+65        <activity
+65-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:57:9-59:51
+66            android:name="kz.cifron.vetqyzmet_doctor.Registration"
+66-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:58:13-41
+67            android:screenOrientation="portrait" />
+67-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:59:13-49
+68        <activity android:name="kz.cifron.vetqyzmet_doctor.FormsLoc" />
+68-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:61:9-46
+68-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:61:19-43
+69        <activity android:name="kz.cifron.vetqyzmet_doctor.BigPage" />
+69-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:62:9-45
+69-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:62:19-42
+70        <activity android:name="kz.cifron.vetqyzmet_doctor.EachAnimal" />
+70-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:63:9-48
+70-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:63:19-45
+71        <activity android:name="kz.cifron.vetqyzmet_doctor.Personal" />
+71-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:64:9-45
+71-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:64:19-43
+72        <activity android:name="kz.cifron.vetqyzmet_doctor.Audandar" />
+72-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:65:9-46
+72-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:65:19-43
+73        <activity android:name="kz.cifron.vetqyzmet_doctor.Tasks" />
+73-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:66:9-43
+73-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:66:19-40
+74        <activity
+74-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:67:9-73:20
+75            android:name="kz.cifron.vetqyzmet_doctor.MainActivity"
+75-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:67:19-47
+76            android:exported="true" >
+76-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:68:13-36
+77            <intent-filter>
+77-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:69:13-72:29
+78                <action android:name="android.intent.action.MAIN" />
+78-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:51:17-69
+78-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:51:25-66
+79
+80                <category android:name="android.intent.category.DEFAULT" />
+80-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:71:17-76
+80-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:71:27-73
+81            </intent-filter>
+82        </activity>
+83
+84        <meta-data
+84-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:74:9-76:57
+85            android:name="preloaded_fonts"
+85-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:75:13-43
+86            android:resource="@array/preloaded_fonts" />
+86-->/Users/alibek/Desktop/VetQyzmet/vet_v1_4_11_2021/app/src/main/AndroidManifest.xml:76:13-54
+87    </application>
+88
+89</manifest>
